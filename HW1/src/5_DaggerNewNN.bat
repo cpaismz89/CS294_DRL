@@ -1,0 +1,2 @@
+python run_DAgger_Free.py experts/Humanoid-v2.pkl Humanoid-v2 --num_rollouts=20 --max_timesteps=1000 --epochs=1000 --batch_size=64 --dagger_iters=10 --MLAYER
+python run_DAgger_Free.py experts/Humanoid-v2.pkl Humanoid-v2 --num_rollouts=20 --max_timesteps=1000 --epochs=1000 --batch_size=64 --dagger_iters=10 --RELU

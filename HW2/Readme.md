@@ -1,0 +1,2 @@
+# HW2: Policy Gradients
+The goal of this assignment is to experiment with policy gradient and its variants, including variance reduction methods. Your goals will be to set up policy gradient for both continuous and discrete environments and experiment with variance reduction tricks, including implementing reward-to-go and neural network baselines

@@ -1,0 +1,2 @@
+# HW4: Model-Based RL
+The goal of this assignment is to get experience with model-based reinforcement learning. Model-based reinforcement learning consists of two main parts: learning a dynamics model, and using a controller to plan and execute actions that minimize a cost function. You will be implementing both the learned dynamics model and the controller in this assignment. This assignment is based on this paper (https://arxiv.org/pdf/1708.02596.pdf).
